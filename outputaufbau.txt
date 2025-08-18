@@ -1,0 +1,4 @@
+  s: 'ok',
+  symbol: ['AAPL'],
+  mid: [231.18],
+  updated: [1755302398]
